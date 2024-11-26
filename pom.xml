@@ -43,7 +43,7 @@
         <guava.version>20.0</guava.version>
         <commons.lang3.version>3.7</commons.lang3.version>
         <commons.collections4.version>4.2</commons.collections4.version>
-        <commons.io.version>2.6</commons.io.version>
+        <commons.io.version>2.7</commons.io.version>
         <hutool.version>4.5.16</hutool.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
